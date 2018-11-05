@@ -1,3 +1,4 @@
 # hello-world
 Learning
-In this branch I will continue to practive my github skills.
+
+In this branch I will continue to practice my github skills.
